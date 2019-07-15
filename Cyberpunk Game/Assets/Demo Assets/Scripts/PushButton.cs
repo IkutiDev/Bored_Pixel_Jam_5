@@ -8,6 +8,9 @@ public class PushButton : MonoBehaviour
     [SerializeField] private GameObject connectedGameObject;
     private void OnTriggerEnter2D(Collider2D other)
     {
-        connectedGameObject.BroadcastMessage("TurnOff");
+        if (connectedGameObject != null)
+        {
+            connectedGameObject.BroadcastMessage("TurnOff");
+        }
     }
 }
