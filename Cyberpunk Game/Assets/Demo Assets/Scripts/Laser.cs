@@ -24,7 +24,7 @@ public class Laser : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             Debug.Log("Ouch, "+gameObject.name+" hurt me.");
-            //other.GetComponent<>() Loosing HP or dying over here
+            other.GetComponent<PlatformerDamage>().Damage();
         }
     }
 

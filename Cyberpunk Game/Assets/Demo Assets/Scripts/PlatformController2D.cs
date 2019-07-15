@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class PlatformController2D : MonoBehaviour
 {
-    [SerializeField] private float speed=3f;
+    [SerializeField] private float speed=5f;
 
     private Rigidbody2D _rigidbody2D;
     private Vector2 movementVector2 = Vector2.zero;
