@@ -9,9 +9,12 @@ public class EarnCheckpoint : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            Debug.Log(gameObject.name+" earned");
-            
-            other.gameObject.GetComponent<PlatformerDamage>().lastCheckPoint = gameObject.transform;
+            if (other.GetComponent<PlatformerDamage>().lastCheckPoint.transform != gameObject.transform)
+            {
+                Debug.Log(gameObject.name + " earned");
+
+                other.gameObject.GetComponent<PlatformerDamage>().lastCheckPoint = gameObject.transform;
+            }
         }
     }
 }
