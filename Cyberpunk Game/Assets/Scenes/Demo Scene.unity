@@ -146,7 +146,7 @@ PrefabInstance:
     - target: {fileID: 9020048374498391573, guid: 1450510a00093dd498e5cdd1be2b0cc5,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 16.9
+      value: 15.76
       objectReference: {fileID: 0}
     - target: {fileID: 9020048374498391573, guid: 1450510a00093dd498e5cdd1be2b0cc5,
         type: 3}
@@ -677,6 +677,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.x
       value: 26.367
+      objectReference: {fileID: 0}
+    - target: {fileID: 3069470075014343325, guid: c68f40f2d324472419474397636f4c28,
+        type: 3}
+      propertyPath: speedOfAirForce
+      value: 40000
+      objectReference: {fileID: 0}
+    - target: {fileID: 3069470075014343325, guid: c68f40f2d324472419474397636f4c28,
+        type: 3}
+      propertyPath: direction
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c68f40f2d324472419474397636f4c28, type: 3}
@@ -1323,7 +1333,7 @@ PrefabInstance:
     - target: {fileID: 9020048374498391573, guid: 1450510a00093dd498e5cdd1be2b0cc5,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 16.9
+      value: 15.76
       objectReference: {fileID: 0}
     - target: {fileID: 9020048374498391573, guid: 1450510a00093dd498e5cdd1be2b0cc5,
         type: 3}
@@ -1479,6 +1489,16 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 26.367
       objectReference: {fileID: 0}
+    - target: {fileID: 3069470075014343325, guid: c68f40f2d324472419474397636f4c28,
+        type: 3}
+      propertyPath: speedOfAirForce
+      value: 40000
+      objectReference: {fileID: 0}
+    - target: {fileID: 3069470075014343325, guid: c68f40f2d324472419474397636f4c28,
+        type: 3}
+      propertyPath: direction
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c68f40f2d324472419474397636f4c28, type: 3}
 --- !u!1 &550095392
@@ -1601,15 +1621,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1904147782}
     m_Modifications:
-    - target: {fileID: 2669080061507354417, guid: ba70fc263dc5f7e45878980a41c19b7b,
-        type: 3}
-      propertyPath: shootTimeIntervals
-      value: 2
-      objectReference: {fileID: 0}
     - target: {fileID: 996603370826533484, guid: ba70fc263dc5f7e45878980a41c19b7b,
         type: 3}
       propertyPath: m_Name
       value: Sentry (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2669080061507354417, guid: ba70fc263dc5f7e45878980a41c19b7b,
+        type: 3}
+      propertyPath: shootTimeIntervals
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7994921248345399169, guid: ba70fc263dc5f7e45878980a41c19b7b,
         type: 3}
@@ -6329,6 +6349,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 12.32
       objectReference: {fileID: 0}
+    - target: {fileID: 3069470075014343325, guid: c68f40f2d324472419474397636f4c28,
+        type: 3}
+      propertyPath: speedOfAirForce
+      value: 18000
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c68f40f2d324472419474397636f4c28, type: 3}
 --- !u!4 &1282136002 stripped
@@ -6350,15 +6375,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1904147782}
     m_Modifications:
-    - target: {fileID: 2669080061507354417, guid: ba70fc263dc5f7e45878980a41c19b7b,
-        type: 3}
-      propertyPath: shootTimeIntervals
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 996603370826533484, guid: ba70fc263dc5f7e45878980a41c19b7b,
         type: 3}
       propertyPath: m_Name
       value: Sentry (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2669080061507354417, guid: ba70fc263dc5f7e45878980a41c19b7b,
+        type: 3}
+      propertyPath: shootTimeIntervals
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7994921248345399169, guid: ba70fc263dc5f7e45878980a41c19b7b,
         type: 3}
@@ -7393,6 +7418,16 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 26.367
       objectReference: {fileID: 0}
+    - target: {fileID: 3069470075014343325, guid: c68f40f2d324472419474397636f4c28,
+        type: 3}
+      propertyPath: speedOfAirForce
+      value: 40000
+      objectReference: {fileID: 0}
+    - target: {fileID: 3069470075014343325, guid: c68f40f2d324472419474397636f4c28,
+        type: 3}
+      propertyPath: direction
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c68f40f2d324472419474397636f4c28, type: 3}
 --- !u!4 &1895314851 stripped
@@ -7580,7 +7615,7 @@ PrefabInstance:
     - target: {fileID: 9020048374498391573, guid: 1450510a00093dd498e5cdd1be2b0cc5,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 16.9
+      value: 15.76
       objectReference: {fileID: 0}
     - target: {fileID: 9020048374498391573, guid: 1450510a00093dd498e5cdd1be2b0cc5,
         type: 3}
@@ -8282,6 +8317,16 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 7.7924004
       objectReference: {fileID: 0}
+    - target: {fileID: 3069470075014343325, guid: c68f40f2d324472419474397636f4c28,
+        type: 3}
+      propertyPath: speedOfAirForce
+      value: 18000
+      objectReference: {fileID: 0}
+    - target: {fileID: 3069470075014343325, guid: c68f40f2d324472419474397636f4c28,
+        type: 3}
+      propertyPath: direction
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c68f40f2d324472419474397636f4c28, type: 3}
 --- !u!1 &1776162905275780226 stripped
@@ -8372,15 +8417,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1904147782}
     m_Modifications:
-    - target: {fileID: 2669080061507354417, guid: ba70fc263dc5f7e45878980a41c19b7b,
-        type: 3}
-      propertyPath: shootTimeIntervals
-      value: 2.5
-      objectReference: {fileID: 0}
     - target: {fileID: 996603370826533484, guid: ba70fc263dc5f7e45878980a41c19b7b,
         type: 3}
       propertyPath: m_Name
       value: Sentry
+      objectReference: {fileID: 0}
+    - target: {fileID: 2669080061507354417, guid: ba70fc263dc5f7e45878980a41c19b7b,
+        type: 3}
+      propertyPath: shootTimeIntervals
+      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: 7994921248345399169, guid: ba70fc263dc5f7e45878980a41c19b7b,
         type: 3}
