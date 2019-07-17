@@ -96,7 +96,7 @@ GameObject:
   - component: {fileID: 1323264199632263924}
   - component: {fileID: 1323264199632263925}
   m_Layer: 0
-  m_Name: CinemaMachine
+  m_Name: CinemaMachineMain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -133,10 +133,11 @@ MonoBehaviour:
   - m_Script
   m_LockStageInInspector: 
   m_StreamingVersion: 20170927
-  m_Priority: 10
+  m_Priority: 1
   m_StandbyUpdate: 2
   m_LookAt: {fileID: 0}
-  m_Follow: {fileID: 0}
+  m_Follow: {fileID: 3908763462217565327, guid: 9ed10c349f500844488183bf937f314c,
+    type: 3}
   m_Lens:
     FieldOfView: 40
     OrthographicSize: 15
