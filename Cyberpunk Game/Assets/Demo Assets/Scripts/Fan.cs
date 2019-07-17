@@ -6,27 +6,21 @@ using UnityEngine;
 public class Fan : MonoBehaviour
 {
     [SerializeField] private bool fanToggle=true;
-    [SerializeField] private float offTime=5f;
-    [SerializeField] private Transform centerOfFan;
+    //[SerializeField] private float offTime=5f;
     private float timer;
 
-    private void Awake()
-    {
-        gameObject.GetComponentInChildren<Rigidbody2D>().centerOfMass= centerOfFan.position;
-    }
-
-    public void TurnOff()
+    public void TurnOff(float offTime)
     {
         if (fanToggle)
         {
             Debug.Log(gameObject.name+" turned off.");
             fanToggle = false;
             gameObject.transform.GetChild(0).gameObject.SetActive(false); // If Windarea is not first child change this line !!!
-            StartCoroutine(nameof(TurnOn));
+            StartCoroutine(TurnOn(offTime));
         }
     }
 
-    private IEnumerator TurnOn()
+    private IEnumerator TurnOn(float offTime)
     {
         yield return new WaitForSeconds(offTime);
         Debug.Log(gameObject.name + " turned on.");
