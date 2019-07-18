@@ -32,8 +32,6 @@ public class MoveDoors : MonoBehaviour
         }
         else
         {
-            Debug.Log(lowerDoorPart.transform.position.y);
-            Debug.Log(upperDoorPart.transform.position.y);
             upperDoorPart.transform.Translate(Time.deltaTime * doorSpeed * -Vector2.down);
             lowerDoorPart.transform.Translate(Time.deltaTime * doorSpeed * -Vector2.up);
             if (lowerDoorPart.transform.position.y<=startPositionLower && upperDoorPart.transform.position.y >=startPositionUpper)

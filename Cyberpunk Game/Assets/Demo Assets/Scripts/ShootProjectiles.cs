@@ -27,5 +27,6 @@ public class ShootProjectiles : MonoBehaviour
         }
         Debug.Log(gameObject.name+" shot projectiles");
         timer = 0;
+        
     }
 }
