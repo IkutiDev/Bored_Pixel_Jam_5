@@ -1,94 +1,106 @@
 fileFormatVersion: 2
-guid: 30ee694b7ed93644e907bea2cc58cbea
+guid: c3c628fb4dac98345ade157f6a877afb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8990897786323657599
-    second: KAFLE4_0
+      213: -4649725926205987829
+    second: tileset2_0
   - first:
-      213: 4296792029160275078
-    second: KAFLE4_1
+      213: -5499684741649557051
+    second: tileset2_1
   - first:
-      213: -3188394739610711788
-    second: KAFLE4_2
+      213: 8618834076924823861
+    second: tileset2_2
   - first:
-      213: -8718429855143139699
-    second: KAFLE4_3
+      213: 4268870410754201161
+    second: tileset2_3
   - first:
-      213: 6479234593561876134
-    second: KAFLE4_4
+      213: -3647070654799774062
+    second: tileset2_4
   - first:
-      213: -6923780120280514756
-    second: KAFLE4_5
+      213: 602735119290616121
+    second: tileset2_5
   - first:
-      213: 6261110492816080162
-    second: KAFLE4_6
+      213: 1253869697530197590
+    second: tileset2_6
   - first:
-      213: 486017056201453923
-    second: KAFLE4_7
+      213: 3631903690155502307
+    second: tileset2_7
   - first:
-      213: 6181895742462759658
-    second: KAFLE4_8
+      213: -553790233947930686
+    second: tileset2_8
   - first:
-      213: 3197312733126493073
-    second: KAFLE4_9
+      213: 9043030489815755770
+    second: tileset2_9
   - first:
-      213: -3248255607818684191
-    second: KAFLE4_10
+      213: 1566318139458365962
+    second: tileset2_10
   - first:
-      213: -1481596032200005596
-    second: KAFLE4_11
+      213: -347231857466505062
+    second: tileset2_11
   - first:
-      213: -6328029044504555005
-    second: KAFLE4_12
+      213: 6887764800334034885
+    second: tileset2_12
   - first:
-      213: -6537842345523717013
-    second: KAFLE4_13
+      213: -4256157894667996635
+    second: tileset2_13
   - first:
-      213: 7491438406272264351
-    second: KAFLE4_14
+      213: -3039419792616034415
+    second: tileset2_14
   - first:
-      213: -572753476249901655
-    second: KAFLE4_15
+      213: 4085916527975883849
+    second: tileset2_15
   - first:
-      213: 1751214597889240655
-    second: KAFLE4_16
+      213: -713534516422861340
+    second: tileset2_16
   - first:
-      213: 1129207392128755210
-    second: KAFLE4_17
+      213: 3826266189638741871
+    second: tileset2_17
   - first:
-      213: 7628179306299095830
-    second: KAFLE4_18
+      213: 2025510840385435719
+    second: tileset2_18
   - first:
-      213: 3561148848646050720
-    second: KAFLE4_19
+      213: 5898420227045710943
+    second: tileset2_19
   - first:
-      213: -2286882200413983156
-    second: KAFLE4_20
+      213: -7061439277340087851
+    second: tileset2_20
   - first:
-      213: -3566324829336473443
-    second: KAFLE4_21
+      213: -8471717669286154444
+    second: tileset2_21
   - first:
-      213: -1049283477001405163
-    second: KAFLE4_22
+      213: 3006899440560649563
+    second: tileset2_22
   - first:
-      213: 8722792530775094040
-    second: KAFLE4_23
+      213: -7659143163318265060
+    second: tileset2_23
   - first:
-      213: 2147535202561741190
-    second: KAFLE4_24
+      213: 1085899199268383717
+    second: tileset2_24
   - first:
-      213: 3489836066828425950
-    second: KAFLE4_25
+      213: -1270919033404057075
+    second: tileset2_25
   - first:
-      213: 7629116986138359930
-    second: KAFLE4_26
+      213: 1016970307825150539
+    second: tileset2_26
   - first:
-      213: -5095800847960364507
-    second: KAFLE4_27
+      213: -1870128963530024467
+    second: tileset2_27
   - first:
-      213: -3016411390307955245
-    second: KAFLE4_28
+      213: 3259471104040250855
+    second: tileset2_28
+  - first:
+      213: 4252987279106506002
+    second: tileset2_29
+  - first:
+      213: -4281378491367282724
+    second: tileset2_30
+  - first:
+      213: -6612970739055147249
+    second: tileset2_31
+  - first:
+      213: -6421324818745665120
+    second: tileset2_32
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -182,115 +194,10 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: KAFLE4_0
+      name: tileset2_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d2c6ff78fb4f43d4ea03bc9e0c9b0fdf
-      internalID: -8990897786323657599
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: KAFLE4_1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d334912fc797f9e4993a1bd7c45d48af
-      internalID: 4296792029160275078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: KAFLE4_2
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 12db77f963f082441bc54b249e77e984
-      internalID: -3188394739610711788
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: KAFLE4_3
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bdf717ed360e6da43a567c703338df37
-      internalID: -8718429855143139699
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: KAFLE4_4
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 18e26519bb446fb419471b96a1e24b71
-      internalID: 6479234593561876134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: KAFLE4_5
-      rect:
-        serializedVersion: 2
-        x: 64
         y: 96
         width: 16
         height: 16
@@ -301,17 +208,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7dc89cfe8fc23c347a0f4065625fae7b
-      internalID: -6923780120280514756
+      spriteID: b977798a3307bbe48a18e0623f2d2dfb
+      internalID: -4649725926205987829
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_6
+      name: tileset2_1
       rect:
         serializedVersion: 2
-        x: 80
+        x: 16
         y: 96
         width: 16
         height: 16
@@ -322,14 +229,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b74372335aea564aa15e592853a4ed7
-      internalID: 6261110492816080162
+      spriteID: 53ed2e627c339424dbfb994e6d05c08d
+      internalID: -5499684741649557051
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_7
+      name: tileset2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b4bb963ce243644856b18a03a1e87b
+      internalID: 8618834076924823861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset2_3
       rect:
         serializedVersion: 2
         x: 0
@@ -343,14 +271,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e5860f228cdaea42954713a747d5627
-      internalID: 486017056201453923
+      spriteID: d4cfaf9200d855b42b47ca3e139bdfe6
+      internalID: 4268870410754201161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_8
+      name: tileset2_4
       rect:
         serializedVersion: 2
         x: 16
@@ -364,14 +292,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8573d8e6194ccc4eba26c7f591244bf
-      internalID: 6181895742462759658
+      spriteID: d0de1f7818130724c9b7c6a6ad01de0f
+      internalID: -3647070654799774062
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_9
+      name: tileset2_5
       rect:
         serializedVersion: 2
         x: 32
@@ -385,14 +313,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92b7a1b4f26b77f40aa7006c0aebd24d
-      internalID: 3197312733126493073
+      spriteID: 24376ce3035040f4f909b151c6cda729
+      internalID: 602735119290616121
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_10
+      name: tileset2_6
       rect:
         serializedVersion: 2
         x: 0
@@ -406,14 +334,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82c2c0c239e221346803e1752db76197
-      internalID: -3248255607818684191
+      spriteID: f222cf4875ecb1541b369550600906e7
+      internalID: 1253869697530197590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_11
+      name: tileset2_7
       rect:
         serializedVersion: 2
         x: 16
@@ -427,14 +355,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81431852c48b37c4f8c6ac12571d07a7
-      internalID: -1481596032200005596
+      spriteID: d7ef3bc3a441e854eb583913e1fd9092
+      internalID: 3631903690155502307
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_12
+      name: tileset2_8
       rect:
         serializedVersion: 2
         x: 32
@@ -448,18 +376,102 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6a907f5a74e07543b81a0561355cbbe
-      internalID: -6328029044504555005
+      spriteID: 133841a149ce5b24792619c1c2dd9853
+      internalID: -553790233947930686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_13
+      name: tileset2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015d1409062c4ba4e90a18036888a982
+      internalID: 9043030489815755770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset2_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9a01397f269bb4c93e819f2d7db2f0
+      internalID: 1566318139458365962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset2_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22242e0bdb2e3824685a65484b1c537d
+      internalID: -347231857466505062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset2_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfde680aa646ab47944353875c0bf29
+      internalID: 6887764800334034885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset2_13
       rect:
         serializedVersion: 2
         x: 64
-        y: 64
+        y: 48
         width: 16
         height: 16
       alignment: 0
@@ -469,18 +481,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17a4ca82ca156684d80cd0cbb8f2fcfb
-      internalID: -6537842345523717013
+      spriteID: 4791a913383f21444941d0a5d6a2dba0
+      internalID: -4256157894667996635
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_14
+      name: tileset2_14
       rect:
         serializedVersion: 2
         x: 80
-        y: 64
+        y: 48
         width: 16
         height: 16
       alignment: 0
@@ -490,18 +502,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8930c261cd66ec64faa6bdfbecc665ca
-      internalID: 7491438406272264351
+      spriteID: b3cfccf5702b3d84ea35086de138eb08
+      internalID: -3039419792616034415
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_15
+      name: tileset2_15
       rect:
         serializedVersion: 2
         x: 0
-        y: 48
+        y: 32
         width: 16
         height: 16
       alignment: 0
@@ -511,18 +523,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63bf98f16ccab8a4fae13db4238be98f
-      internalID: -572753476249901655
+      spriteID: ad7d348b9c6cd2b49b17440ae88dc8cc
+      internalID: 4085916527975883849
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_16
+      name: tileset2_16
       rect:
         serializedVersion: 2
         x: 16
-        y: 48
+        y: 32
         width: 16
         height: 16
       alignment: 0
@@ -532,77 +544,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e26d5531512dc844b06f26c17c7891f
-      internalID: 1751214597889240655
+      spriteID: d61ef67e4030a8a41bb753dd73e484f3
+      internalID: -713534516422861340
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_17
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d35fb6e1d697c134b808414631fb7968
-      internalID: 1129207392128755210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: KAFLE4_18
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b0420936bfc49ec4fa0229f5a62e92ec
-      internalID: 7628179306299095830
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: KAFLE4_19
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af8210d734a948d408207b98a8d2dc4a
-      internalID: 3561148848646050720
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: KAFLE4_20
+      name: tileset2_17
       rect:
         serializedVersion: 2
         x: 32
@@ -616,14 +565,77 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91d12766a7620854a8766a35ffc16864
-      internalID: -2286882200413983156
+      spriteID: 6024fe7453c60684aa32ed3f4ad12518
+      internalID: 3826266189638741871
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_21
+      name: tileset2_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd45c6f3506a24944b1e12e25a90af9a
+      internalID: 2025510840385435719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset2_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce795947c7c3684faf3ffb097065350
+      internalID: 5898420227045710943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset2_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00652b33ee3c390429630cbf2e732724
+      internalID: -7061439277340087851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset2_21
       rect:
         serializedVersion: 2
         x: 0
@@ -637,14 +649,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c31fe256582cea140b284018f8cec0dd
-      internalID: -3566324829336473443
+      spriteID: 7ff0cbfa90673614a988f1f7784be7a0
+      internalID: -8471717669286154444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_22
+      name: tileset2_22
       rect:
         serializedVersion: 2
         x: 16
@@ -658,14 +670,56 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc126d4338f952740991b1b205db1a11
-      internalID: -1049283477001405163
+      spriteID: a66d2256b92f1444ba2050eae60fcc5a
+      internalID: 3006899440560649563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_23
+      name: tileset2_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951fb37f4ee68a043b7690b0ae02673b
+      internalID: -7659143163318265060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset2_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9257ed01fe94c4eb1dec18d6d49798
+      internalID: 1085899199268383717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset2_25
       rect:
         serializedVersion: 2
         x: 64
@@ -679,14 +733,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0477d43aa665c7142a9ca4d1fe653dfa
-      internalID: 8722792530775094040
+      spriteID: 698dcf79b469ae34aa0c25da6450eb33
+      internalID: -1270919033404057075
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_24
+      name: tileset2_26
       rect:
         serializedVersion: 2
         x: 80
@@ -700,14 +754,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4f2fb4ede75ec54bb42376d5c39314d
-      internalID: 2147535202561741190
+      spriteID: f27939218bd94a14c8ca25b81a0dca50
+      internalID: 1016970307825150539
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_25
+      name: tileset2_27
       rect:
         serializedVersion: 2
         x: 0
@@ -721,14 +775,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd6349182d7f73942aa4db1c2eaec51d
-      internalID: 3489836066828425950
+      spriteID: 9d5229ba8508ebd4485f1a349d2f6c7c
+      internalID: -1870128963530024467
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_26
+      name: tileset2_28
       rect:
         serializedVersion: 2
         x: 16
@@ -742,14 +796,56 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0259cc439e0b23f4fbd47272de292bd3
-      internalID: 7629116986138359930
+      spriteID: 2c377d96123907842bb4bfb7e70a79e1
+      internalID: 3259471104040250855
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_27
+      name: tileset2_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d784385c0db104fa6b6404fde93d76
+      internalID: 4252987279106506002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset2_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ffe55911595b041b20c55105770376
+      internalID: -4281378491367282724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset2_31
       rect:
         serializedVersion: 2
         x: 64
@@ -763,14 +859,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1d2c5c513df3e14d823154f4befa124
-      internalID: -5095800847960364507
+      spriteID: 1c03ca8ed67872b44bc53bdc9243910d
+      internalID: -6612970739055147249
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: KAFLE4_28
+      name: tileset2_32
       rect:
         serializedVersion: 2
         x: 80
@@ -784,8 +880,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44de9646cf875aa4a96dbf758b93b769
-      internalID: -3016411390307955245
+      spriteID: c0d1583025a43804483d54578ab5e098
+      internalID: -6421324818745665120
       vertices: []
       indices: 
       edges: []
@@ -793,7 +889,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 6aaf4d9c9ca74054ba539b079025d2e8
+    spriteID: 5ea5a2d733fc5094e8d02f1c3702d9e7
     internalID: 0
     vertices: []
     indices: 
