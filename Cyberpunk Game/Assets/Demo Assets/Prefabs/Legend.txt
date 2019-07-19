@@ -1,7 +1,0 @@
-Blue - Player
-White - Obstacle/wall
-Purple - Button
-Red - Laser
-Green - sentry
-gray - fan
-dark gray - trashing door

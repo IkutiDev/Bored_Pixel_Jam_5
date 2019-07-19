@@ -1,1 +1,0 @@
-﻿1. Checkpointy powinny spawnic w swoim dziecku nazwanym spawn area a nie gdzie popadnie
