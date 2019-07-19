@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Wall
   - CrushingDoor
+  - Human
   layers:
   - Default
   - TransparentFX
