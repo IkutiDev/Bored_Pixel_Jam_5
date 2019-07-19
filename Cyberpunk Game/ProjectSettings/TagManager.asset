@@ -47,8 +47,8 @@ TagManager:
   - name: Background
     uniqueID: 1996661591
     locked: 0
-  - name: Near Background
-    uniqueID: 622354669
+  - name: City Background
+    uniqueID: 1638532187
     locked: 0
   - name: Default
     uniqueID: 0
