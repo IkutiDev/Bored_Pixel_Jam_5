@@ -11,7 +11,10 @@ public class StopAndChangeHumanState : MonoBehaviour
         GameObject human=collision.gameObject;
         if (collision.CompareTag("Human"))
         {
-            StartCoroutine(ChangeState(timeToWait,human));
+            if (human.GetComponent<ControlHuman>().currentState != ControlHuman.HumanState.Jumping)
+            {
+                StartCoroutine(ChangeState(timeToWait, human));
+            }
         }
     }
 

@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -9,8 +10,10 @@ public class ChangeHumanState : MonoBehaviour
     {
         if (collision.CompareTag("Human"))
         {
-            collision.GetComponent<ControlHuman>().currentState = newState;
+            if (collision.GetComponent<ControlHuman>().currentState != ControlHuman.HumanState.Jumping)
+            {
+                collision.GetComponent<ControlHuman>().currentState = newState;
+            }
         }
     }
-    
 }

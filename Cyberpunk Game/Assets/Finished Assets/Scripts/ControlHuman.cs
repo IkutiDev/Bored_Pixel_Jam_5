@@ -6,6 +6,11 @@ using UnityEngine;
 public class ControlHuman : MonoBehaviour
 {
     [SerializeField] private float runSpeed = 5f;
+    [SerializeField] private float jumpLength;
+    [SerializeField] private float jumpSpeed;
+    [SerializeField] private float jumpHeight;
+    private Vector2 startPos;
+    private Vector2 targetPos;
     private Animator animator;
     private Rigidbody2D _rigidbody2D;
     public enum HumanState
@@ -13,7 +18,8 @@ public class ControlHuman : MonoBehaviour
         Stop,
         Walk,
         Run,
-        Jump
+        Jump,
+        Jumping
     }
 
     public HumanState currentState=HumanState.Stop;
@@ -39,6 +45,12 @@ public class ControlHuman : MonoBehaviour
                 Run();
                 break;
             case HumanState.Jump:
+                startPos = transform.position;
+                targetPos = new Vector2(startPos.x+jumpLength,startPos.y);
+                animator.SetInteger(State, (int)HumanState.Jump);
+                currentState = HumanState.Jumping;
+                break;
+            case HumanState.Jumping:
                 Jump();
                 break;
             default:
@@ -61,7 +73,18 @@ public class ControlHuman : MonoBehaviour
 
     private void Jump()
     {
-        animator.SetInteger(State, (int)HumanState.Jump);
+        float x0 = startPos.x;
+        float x1 = targetPos.x;
+        float dist = x1 - x0;
+        float nextX = Mathf.MoveTowards(transform.position.x, x1, jumpSpeed * Time.deltaTime);
+        float baseY = Mathf.Lerp(startPos.y,targetPos.y,(nextX-x0)/dist);
+        float arc = jumpHeight*(nextX-x0)*(nextX-x1)/(-0.25f*dist*dist);
+        Vector2 nextPos = new Vector2(nextX,baseY+arc);
+        transform.position = nextPos;
+        if (nextPos == targetPos)
+        {
+            currentState = HumanState.Stop;
+        }
     }
 
     private void Stop()
