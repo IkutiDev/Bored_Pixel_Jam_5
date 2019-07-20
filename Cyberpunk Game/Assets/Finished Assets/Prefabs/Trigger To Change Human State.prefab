@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5301848444149888369}
   - component: {fileID: 8920378722100833698}
+  - component: {fileID: 6729743284346741356}
   m_Layer: 0
   m_Name: Trigger To Change Human State
   m_TagString: Untagged
@@ -44,7 +45,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 1.1950693}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -55,5 +56,18 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1, y: 8.324587}
   m_EdgeRadius: 0
+--- !u!114 &6729743284346741356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5770621356549304524}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0ce4c5d95f7a5744920d12aebee6ce9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  newState: 0
