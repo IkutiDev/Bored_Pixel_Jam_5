@@ -96,6 +96,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   runSpeed: 5
+  jumpLength: 0
+  jumpSpeed: 0
+  jumpHeight: 0
   currentState: 0
 --- !u!95 &3913707889326418338
 Animator:

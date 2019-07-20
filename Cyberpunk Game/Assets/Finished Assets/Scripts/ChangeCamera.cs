@@ -6,6 +6,8 @@ using UnityEngine;
 
 public class ChangeCamera : MonoBehaviour
 {
+    [SerializeField] private Transform platformTransform;
+    [SerializeField] private Transform humanTransform;
     private CinemachineVirtualCamera CVC;
     private void Awake()
     {
@@ -14,16 +16,9 @@ public class ChangeCamera : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.F))
+        if (Input.GetKeyDown(KeyCode.C))
         {
-            if (CVC.Priority == 0)
-            {
-                CVC.Priority = 2;
-            }
-            else
-            {
-                CVC.Priority = 0;
-            }
+            CVC.Follow = CVC.Follow == humanTransform ? platformTransform : humanTransform;
         }
     }
 }
