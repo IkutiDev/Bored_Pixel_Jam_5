@@ -18,7 +18,8 @@ public class Crush : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D other)
     {
-        if (other.CompareTag("Player") && otherCrushingArea.GetComponent<Crush>().playerInCrushingArea)
+        var reverse =gameObject.transform.parent.GetComponentInParent<MoveDoors>().reverse;
+        if (other.CompareTag("Player") && otherCrushingArea.GetComponent<Crush>().playerInCrushingArea && reverse)
         {
             Debug.Log("Player crushed");
             other.gameObject.GetComponent<PlatformerDamage>().Damage();
