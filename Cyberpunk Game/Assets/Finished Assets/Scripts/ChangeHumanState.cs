@@ -10,10 +10,7 @@ public class ChangeHumanState : MonoBehaviour
     {
         if (collision.CompareTag("Human"))
         {
-            if (collision.GetComponent<ControlHuman>().currentState != ControlHuman.HumanState.Jumping)
-            {
-                collision.GetComponent<ControlHuman>().currentState = newState;
-            }
+            collision.GetComponent<ControlHuman>().currentState = newState;
         }
     }
 }

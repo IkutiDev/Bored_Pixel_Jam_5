@@ -10,7 +10,9 @@ public class MoveDoors : MonoBehaviour
     private float startPositionLower;
     private float startPositionUpper;
     [SerializeField] private float doorSpeed=2f;
+    private float previousDoorSpeed;
     public bool reverse = false;
+    [SerializeField] private bool doorToggle = true;
 
     private void Awake()
     {
@@ -20,7 +22,7 @@ public class MoveDoors : MonoBehaviour
         Debug.Log(startPositionLower);
         startPositionUpper = upperDoorPart.transform.position.y;
         Debug.Log(startPositionUpper);
-        doorSpeed = Mathf.Clamp(doorSpeed, 0.1f, 20f);//Wiekszy/mniejszy speed moze popsuc drzwi
+        doorSpeed = Mathf.Clamp(doorSpeed, 0f, 20f);//Wiekszy/mniejszy speed moze popsuc drzwi
     }
 
     private void Update()
@@ -43,5 +45,23 @@ public class MoveDoors : MonoBehaviour
             }
 
         }
+    }
+    public void TurnOff(float offTime)
+    {
+        if (doorToggle)
+        {
+            doorToggle = false;
+            Debug.Log(gameObject.name + " turned off.");
+            previousDoorSpeed = doorSpeed;
+            doorSpeed = 0f;
+            StartCoroutine((TurnOn(offTime)));
+        }
+    }
+    private IEnumerator TurnOn(float offTime)
+    {
+        yield return new WaitForSeconds(offTime);
+        Debug.Log(gameObject.name + " turned on.");
+        doorSpeed = previousDoorSpeed;
+        doorToggle = true;
     }
 }
