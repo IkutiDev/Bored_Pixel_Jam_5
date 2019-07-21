@@ -11,18 +11,16 @@ public class StopAndChangeHumanState : MonoBehaviour
         GameObject human=collision.gameObject;
         if (collision.CompareTag("Human"))
         {
-            if (human.GetComponent<ControlHuman>().currentState != ControlHuman.HumanState.Jumping)
-            {
-                StartCoroutine(ChangeState(timeToWait, human));
-            }
+            human.GetComponent<ControlHuman>().currentState = ControlHuman.HumanState.Stop;
         }
     }
 
-    private IEnumerator ChangeState(float time,GameObject human)
+    public void ChangeState()
     {
-        human.GetComponent<ControlHuman>().currentState = ControlHuman.HumanState.Stop;
-        yield return new WaitForSeconds(time);
-        human.GetComponent<ControlHuman>().currentState = newState;
-
+        if (GameObject.FindGameObjectWithTag("Human").GetComponent<ControlHuman>().currentState ==
+            ControlHuman.HumanState.Stop)
+        {
+            GameObject.FindGameObjectWithTag("Human").GetComponent<ControlHuman>().currentState = newState;
+        }
     }
 }

@@ -23,5 +23,10 @@ public class PlatformController2D : MonoBehaviour
     private void FixedUpdate()
     {
         _rigidbody2D.MovePosition(_rigidbody2D.position + speed * Time.fixedDeltaTime * movementVector2);
+        transform.position=new Vector2(transform.position.x,Mathf.Clamp(transform.position.y,-60f,26.5f));
+        if (transform.position.y > 26.5f)
+        {
+            transform.position = new Vector2(transform.position.x,26.45f);
+        }
     }
 }
