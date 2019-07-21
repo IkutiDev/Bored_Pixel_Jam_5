@@ -11,6 +11,7 @@ public class PlatformTrigger : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             changeHumanStateGameObject.BroadcastMessage("ChangeState");
+            gameObject.SetActive(false);
         }
     }
 }
