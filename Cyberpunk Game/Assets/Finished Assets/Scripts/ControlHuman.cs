@@ -67,7 +67,7 @@ public class ControlHuman : MonoBehaviour
 
     private void Walk()
     {
-        _rigidbody2D.MovePosition(_rigidbody2D.position + Time.fixedDeltaTime * Vector2.right);
+        _rigidbody2D.MovePosition(_rigidbody2D.position + runSpeed* Time.fixedDeltaTime * Vector2.right);
         animator.SetInteger(State, (int)HumanState.Walk);
     }
 
