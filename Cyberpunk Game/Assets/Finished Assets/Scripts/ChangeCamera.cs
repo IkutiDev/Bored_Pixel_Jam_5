@@ -18,7 +18,16 @@ public class ChangeCamera : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.C))
         {
-            CVC.Follow = CVC.Follow == humanTransform ? platformTransform : humanTransform;
+            if (CVC.Follow == humanTransform)
+            {
+                CVC.Follow = platformTransform;
+                CVC.m_Lens.OrthographicSize = 8f;
+            }
+            else
+            {
+                CVC.Follow = humanTransform;
+                CVC.m_Lens.OrthographicSize = 12f;
+            }
         }
     }
 }
