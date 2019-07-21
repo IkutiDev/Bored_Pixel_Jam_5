@@ -4,15 +4,21 @@ using UnityEngine;
 
 public class GameStateManager : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    [SerializeField] private GameObject gameOverPanel;
+    public void WinGame()
     {
-        
+        FindObjectOfType<SceneManager>().NextScene();
     }
 
-    // Update is called once per frame
-    void Update()
+    public void LooseGame()
     {
-        
+        Time.timeScale = 0;
+        gameOverPanel.SetActive(true);
+    }
+
+    public void TryAgain()
+    {
+        Time.timeScale = 1;
+        FindObjectOfType<SceneManager>().SpecificScene("Level 1");
     }
 }
