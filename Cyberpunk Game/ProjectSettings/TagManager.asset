@@ -41,6 +41,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Invisible walls
+    uniqueID: 3017697265
+    locked: 0
   - name: Far Background
     uniqueID: 2206838185
     locked: 0
