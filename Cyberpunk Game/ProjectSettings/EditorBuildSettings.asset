@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Scene.unity
     guid: a154ce4f0a5fa6148a19533b3b7ae3a3
   - enabled: 1
-    path: Assets/Scenes/Level 1.unity
+    path: Assets/Scenes/Level 1 OLD.unity
     guid: a7d9858c7f99a644cadc3a45211d519d
   - enabled: 1
     path: Assets/Scenes/Win Scene.unity
