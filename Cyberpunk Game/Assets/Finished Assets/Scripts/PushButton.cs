@@ -9,14 +9,35 @@ public class PushButton : MonoBehaviour
     [SerializeField] private float offTime = 5f;
     [SerializeField] private Sprite pressedButtonSprite;
     [SerializeField] private Sprite notPressedButtonSprite;
+    [SerializeField] private bool canPressPressedButton;
     private bool pressed = false;
+
+    public struct ButtonStruct
+    {
+        public float OffTime;
+        public bool CanPressPressedButton;
+
+        public ButtonStruct(float offTime, bool canPressPressedButton)
+        {
+            OffTime = offTime;
+            CanPressPressedButton = canPressPressedButton;
+        }
+    }
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (connectedGameObject != null && pressed==false)
         {
-            pressed = true;
+            if (!canPressPressedButton)
+            {
+                pressed = true;
+            }
+
             gameObject.GetComponent<SpriteRenderer>().sprite = pressedButtonSprite;
-            connectedGameObject.BroadcastMessage("TurnOff",offTime);
+            connectedGameObject.BroadcastMessage("TurnOff",new ButtonStruct(offTime,canPressPressedButton));
+            if (canPressPressedButton)
+            {
+                StopAllCoroutines();
+            }
             StartCoroutine(switchPressedButton());
         }
     }

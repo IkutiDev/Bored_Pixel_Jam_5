@@ -9,14 +9,21 @@ public class Fan : MonoBehaviour
     //[SerializeField] private float offTime=5f;
     private float timer;
 
-    public void TurnOff(float offTime)
+    public void TurnOff(PushButton.ButtonStruct buttonStruct)
     {
         if (fanToggle)
         {
             Debug.Log(gameObject.name+" turned off.");
-            fanToggle = false;
+            if (!buttonStruct.CanPressPressedButton)
+            {
+                fanToggle = false;
+            }
             gameObject.transform.GetChild(0).gameObject.SetActive(false); // If Windarea is not first child change this line !!!
-            StartCoroutine(TurnOn(offTime));
+            if (buttonStruct.CanPressPressedButton)
+            {
+                StopAllCoroutines();
+            }
+            StartCoroutine(TurnOn(buttonStruct.OffTime));
         }
     }
 

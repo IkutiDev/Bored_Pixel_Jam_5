@@ -46,15 +46,23 @@ public class MoveDoors : MonoBehaviour
 
         }
     }
-    public void TurnOff(float offTime)
+    public void TurnOff(PushButton.ButtonStruct buttonStruct)
     {
         if (doorToggle)
         {
-            doorToggle = false;
+            if (!buttonStruct.CanPressPressedButton)
+            {
+                doorToggle = false;
+            }
             Debug.Log(gameObject.name + " turned off.");
             previousDoorSpeed = doorSpeed;
             doorSpeed = 0f;
-            StartCoroutine((TurnOn(offTime)));
+            if (buttonStruct.CanPressPressedButton)
+            {
+                StopAllCoroutines();
+            }
+
+            StartCoroutine((TurnOn(buttonStruct.OffTime)));
         }
     }
     private IEnumerator TurnOn(float offTime)

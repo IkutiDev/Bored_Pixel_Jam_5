@@ -6,15 +6,23 @@ using UnityEngine;
 public class Laser : MonoBehaviour
 {
     [SerializeField] private bool laserToggle=true;
-    public void TurnOff(float offTime)
+    public void TurnOff(PushButton.ButtonStruct buttonStruct)
     {
         if (laserToggle)
         {
-            laserToggle = false;
+            if (!buttonStruct.CanPressPressedButton)
+            {
+                laserToggle = false;
+            }
             Debug.Log(gameObject.name + " turned off.");
             gameObject.GetComponent<SpriteRenderer>().enabled=false;
             gameObject.GetComponent<BoxCollider2D>().enabled = false;
-            StartCoroutine((TurnOn(offTime)));
+            if (buttonStruct.CanPressPressedButton)
+            {
+                StopAllCoroutines();
+            }
+
+            StartCoroutine((TurnOn(buttonStruct.OffTime)));
         }
     }
 

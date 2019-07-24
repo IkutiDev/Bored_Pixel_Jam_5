@@ -34,13 +34,21 @@ public class ShootProjectiles : MonoBehaviour
         }
 
     }
-    public void TurnOff(float offTime)
+    public void TurnOff(PushButton.ButtonStruct buttonStruct)
     {
         if (sentryToggle)
         {
-            sentryToggle = false;
+            if (!buttonStruct.CanPressPressedButton)
+            {
+                sentryToggle = false;
+            }
             Debug.Log(gameObject.name + " turned off.");
-            StartCoroutine((TurnOn(offTime)));
+            if (buttonStruct.CanPressPressedButton)
+            {
+                StopAllCoroutines();
+            }
+
+            StartCoroutine((TurnOn(buttonStruct.OffTime)));
         }
     }
     private IEnumerator TurnOn(float offTime)
