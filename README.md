@@ -1,2 +1,2 @@
-# Bored_Pixel_Jam_5
-Bored Pixel Jam
+# Cyberplatform: Road to self-consciousness
+Our submission to Bored Pixel Jam 5
