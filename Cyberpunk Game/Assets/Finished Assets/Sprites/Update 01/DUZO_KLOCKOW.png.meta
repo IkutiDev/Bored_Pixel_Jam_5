@@ -1,0 +1,2488 @@
+fileFormatVersion: 2
+guid: 355cfba31fc4c2c409bf3f8929e037f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3144768374136076488
+    second: DUZO_KLOCKOW_0
+  - first:
+      213: -5040069510437193476
+    second: DUZO_KLOCKOW_2
+  - first:
+      213: -8916368406909644971
+    second: DUZO_KLOCKOW_3
+  - first:
+      213: 5510538494742437601
+    second: DUZO_KLOCKOW_4
+  - first:
+      213: 5043251330116698170
+    second: DUZO_KLOCKOW_6
+  - first:
+      213: 1762848702194875040
+    second: DUZO_KLOCKOW_7
+  - first:
+      213: -5500619070710938900
+    second: DUZO_KLOCKOW_8
+  - first:
+      213: 3090158701721115995
+    second: DUZO_KLOCKOW_9
+  - first:
+      213: -7355213268198735358
+    second: DUZO_KLOCKOW_10
+  - first:
+      213: 1787717661651835092
+    second: DUZO_KLOCKOW_12
+  - first:
+      213: -4846106204292768414
+    second: DUZO_KLOCKOW_13
+  - first:
+      213: 3466683974467760908
+    second: DUZO_KLOCKOW_15
+  - first:
+      213: 3008797802199184063
+    second: DUZO_KLOCKOW_16
+  - first:
+      213: 8329479691475212451
+    second: DUZO_KLOCKOW_17
+  - first:
+      213: 6839850273196480881
+    second: DUZO_KLOCKOW_18
+  - first:
+      213: 7708691465669794731
+    second: DUZO_KLOCKOW_19
+  - first:
+      213: 8990072289345625421
+    second: DUZO_KLOCKOW_20
+  - first:
+      213: -4573199055211776156
+    second: DUZO_KLOCKOW_21
+  - first:
+      213: -1582943108006233988
+    second: DUZO_KLOCKOW_22
+  - first:
+      213: -4538856649389136736
+    second: DUZO_KLOCKOW_26
+  - first:
+      213: -8135747424140881746
+    second: DUZO_KLOCKOW_27
+  - first:
+      213: 8370367465563039736
+    second: DUZO_KLOCKOW_28
+  - first:
+      213: 3804242234130982994
+    second: DUZO_KLOCKOW_29
+  - first:
+      213: 7141461106310132707
+    second: DUZO_KLOCKOW_30
+  - first:
+      213: 1114882084095024100
+    second: DUZO_KLOCKOW_31
+  - first:
+      213: 7626503706195371152
+    second: DUZO_KLOCKOW_32
+  - first:
+      213: 2033714097771214789
+    second: DUZO_KLOCKOW_33
+  - first:
+      213: 2497070833237067649
+    second: DUZO_KLOCKOW_34
+  - first:
+      213: -5067683383275048803
+    second: DUZO_KLOCKOW_37
+  - first:
+      213: 861013290079495454
+    second: DUZO_KLOCKOW_39
+  - first:
+      213: -5029209257057778534
+    second: DUZO_KLOCKOW_40
+  - first:
+      213: 5303943017151511772
+    second: DUZO_KLOCKOW_41
+  - first:
+      213: 6041188383293518143
+    second: DUZO_KLOCKOW_42
+  - first:
+      213: -4869823805022502328
+    second: DUZO_KLOCKOW_43
+  - first:
+      213: 4882697394844682863
+    second: DUZO_KLOCKOW_44
+  - first:
+      213: -8677207191493137897
+    second: DUZO_KLOCKOW_45
+  - first:
+      213: -7947178108547323229
+    second: DUZO_KLOCKOW_46
+  - first:
+      213: -7260634708761426752
+    second: DUZO_KLOCKOW_49
+  - first:
+      213: 8907324027279835746
+    second: DUZO_KLOCKOW_50
+  - first:
+      213: -3696380025181575903
+    second: DUZO_KLOCKOW_51
+  - first:
+      213: -397273587774753077
+    second: DUZO_KLOCKOW_52
+  - first:
+      213: -4924247537881067795
+    second: DUZO_KLOCKOW_61
+  - first:
+      213: -1856483346517928346
+    second: DUZO_KLOCKOW_62
+  - first:
+      213: 3831778852105253770
+    second: DUZO_KLOCKOW_63
+  - first:
+      213: -2062635867351171503
+    second: DUZO_KLOCKOW_64
+  - first:
+      213: -5489649513794082276
+    second: DUZO_KLOCKOW_65
+  - first:
+      213: 3643284813487220524
+    second: DUZO_KLOCKOW_66
+  - first:
+      213: 6181377373127321598
+    second: DUZO_KLOCKOW_67
+  - first:
+      213: -5162496503406505372
+    second: DUZO_KLOCKOW_68
+  - first:
+      213: -1335231208213848633
+    second: DUZO_KLOCKOW_71
+  - first:
+      213: 6644487578318243547
+    second: DUZO_KLOCKOW_72
+  - first:
+      213: 7596245761436991747
+    second: DUZO_KLOCKOW_75
+  - first:
+      213: -2791707449967385952
+    second: DUZO_KLOCKOW_76
+  - first:
+      213: -2500929043452219816
+    second: DUZO_KLOCKOW_77
+  - first:
+      213: 3745220057385173454
+    second: DUZO_KLOCKOW_78
+  - first:
+      213: -5341224906736805619
+    second: DUZO_KLOCKOW_80
+  - first:
+      213: 2614980576775189114
+    second: DUZO_KLOCKOW_81
+  - first:
+      213: 8141340279264414546
+    second: DUZO_KLOCKOW_83
+  - first:
+      213: 8334589618889100731
+    second: DUZO_KLOCKOW_84
+  - first:
+      213: 7880983080669099916
+    second: DUZO_KLOCKOW_86
+  - first:
+      213: 4431621934634691912
+    second: DUZO_KLOCKOW_87
+  - first:
+      213: -3034148639661681347
+    second: DUZO_KLOCKOW_88
+  - first:
+      213: 3512390531952915102
+    second: DUZO_KLOCKOW_89
+  - first:
+      213: 7091843417437911072
+    second: DUZO_KLOCKOW_90
+  - first:
+      213: 729463268112522356
+    second: DUZO_KLOCKOW_91
+  - first:
+      213: -1758595390812843770
+    second: DUZO_KLOCKOW_92
+  - first:
+      213: -489981875926543760
+    second: DUZO_KLOCKOW_94
+  - first:
+      213: -3858429100261665350
+    second: DUZO_KLOCKOW_95
+  - first:
+      213: 6210218036048522715
+    second: DUZO_KLOCKOW_96
+  - first:
+      213: 5035036339200388931
+    second: DUZO_KLOCKOW_97
+  - first:
+      213: 8178806432422678886
+    second: DUZO_KLOCKOW_99
+  - first:
+      213: -6120498253183099493
+    second: DUZO_KLOCKOW_100
+  - first:
+      213: 4118298899271051133
+    second: DUZO_KLOCKOW_101
+  - first:
+      213: -6364999137828955420
+    second: DUZO_KLOCKOW_102
+  - first:
+      213: -8472625805880045744
+    second: DUZO_KLOCKOW_103
+  - first:
+      213: -22848966962924381
+    second: DUZO_KLOCKOW_104
+  - first:
+      213: -6233261392647051191
+    second: DUZO_KLOCKOW_105
+  - first:
+      213: -8562987434947323186
+    second: DUZO_KLOCKOW_106
+  - first:
+      213: 4074851252222368331
+    second: DUZO_KLOCKOW_107
+  - first:
+      213: -2725926387809939298
+    second: DUZO_KLOCKOW_108
+  - first:
+      213: 5165017152063701257
+    second: DUZO_KLOCKOW_109
+  - first:
+      213: -2150367984381919392
+    second: DUZO_KLOCKOW_110
+  - first:
+      213: -9203216341855337428
+    second: DUZO_KLOCKOW_111
+  - first:
+      213: -894606543051742904
+    second: DUZO_KLOCKOW_112
+  - first:
+      213: 67244827658212329
+    second: DUZO_KLOCKOW_113
+  - first:
+      213: -7129242049876101033
+    second: DUZO_KLOCKOW_114
+  - first:
+      213: 928521687229542673
+    second: DUZO_KLOCKOW_115
+  - first:
+      213: -5456934363398346387
+    second: DUZO_KLOCKOW_116
+  - first:
+      213: -6696907412919707119
+    second: DUZO_KLOCKOW_117
+  - first:
+      213: 8413244210873816466
+    second: DUZO_KLOCKOW_118
+  - first:
+      213: -5631918077447890153
+    second: DUZO_KLOCKOW_119
+  - first:
+      213: -3493120675381059925
+    second: DUZO_KLOCKOW_120
+  - first:
+      213: -1798551770096522284
+    second: DUZO_KLOCKOW_121
+  - first:
+      213: -2501312061401439199
+    second: DUZO_KLOCKOW_122
+  - first:
+      213: 529897134872196070
+    second: DUZO_KLOCKOW_123
+  - first:
+      213: -3611828360922323296
+    second: DUZO_KLOCKOW_124
+  - first:
+      213: -8987583282315452548
+    second: DUZO_KLOCKOW_125
+  - first:
+      213: -3697204509391309790
+    second: DUZO_KLOCKOW_126
+  - first:
+      213: 7524938231363500226
+    second: DUZO_KLOCKOW_1
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37757c1891322c40b1eef258e90b37c
+      internalID: -3144768374136076488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08db94acbfddcf4097145c6b383ad69
+      internalID: -5040069510437193476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72bf762823cec34d943c3b2cfed7caa
+      internalID: -8916368406909644971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae42add907346b469231b8cb273482d
+      internalID: 5510538494742437601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd75a2ed16f9424abbb6ee0bddfb746
+      internalID: 5043251330116698170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3bbd4fdc492f74b8ad728f5c0a6cca
+      internalID: 1762848702194875040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02512f2b35b09a842ad6187758e31190
+      internalID: -5500619070710938900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb47ace4871a8794480e9f8a22d185e0
+      internalID: 3090158701721115995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4104c2beadd502d4c831aa2cf806f887
+      internalID: -7355213268198735358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6894970575f9f614b9018482df207b42
+      internalID: 1787717661651835092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471dfbf7374a7af4e9da9a454195abb9
+      internalID: -4846106204292768414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9abdfecdbb1b340a79c6cfa2c27542
+      internalID: 3466683974467760908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0add3e7b84359499e20986a0d9c3ad
+      internalID: 3008797802199184063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9f3e4fd9aa2594ab22ee960efb5d6f
+      internalID: 8329479691475212451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3109e2c9379675947a284f62de3a3e41
+      internalID: 6839850273196480881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_19
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e932a0724186c49a09b30992bb9c72
+      internalID: 7708691465669794731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b68db10b2bd4240b8f9b596cf947ce
+      internalID: 8990072289345625421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e592d9d601715e346a233af9240899e5
+      internalID: -4573199055211776156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbac2f8d010e28848ad32a4a6e104639
+      internalID: -1582943108006233988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009633e9aa368b44491418783258ef1d
+      internalID: -4538856649389136736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b83dc680c7a3a54f863d190e0dee757
+      internalID: -8135747424140881746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0851b3a251c94204a883677e72a09493
+      internalID: 8370367465563039736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9013a9b670172e441b468d0dd8b38494
+      internalID: 3804242234130982994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3d9064d547f5d448a26067e2652aca
+      internalID: 7141461106310132707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a90b65cace6be44eab0224d68a5a404
+      internalID: 1114882084095024100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_32
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909c403c95129fc448d02dca0b6a0576
+      internalID: 7626503706195371152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_33
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619a71a42f4ead04aa18f29ad5bd28fe
+      internalID: 2033714097771214789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbf5362649add84bbd57f8b14f83b14
+      internalID: 2497070833237067649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cebca496279154fa7cb44fc4fc5271
+      internalID: -5067683383275048803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_39
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d09cfc4e4ca2a4aace90d67c3abfae
+      internalID: 861013290079495454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_40
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7915daad7091944586307b503834556
+      internalID: -5029209257057778534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c54b6777755374f9c9d91efa642211
+      internalID: 5303943017151511772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_42
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8085448a359ab0141843dc9bdaafa010
+      internalID: 6041188383293518143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_43
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc44b3633d724e448ffc196f9fd7d60
+      internalID: -4869823805022502328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_44
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f575856786c181428e542ae293a57ad
+      internalID: 4882697394844682863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_45
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1272b139cbd8547ab5cb097cfaf766
+      internalID: -8677207191493137897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_46
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563d429f7ab94ec4687707d4e32935ea
+      internalID: -7947178108547323229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d378743ba6a9eac4b8871d9e36fe279c
+      internalID: -7260634708761426752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a9bb7563b781f41a4217b7964f6dd9
+      internalID: 8907324027279835746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_51
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e5a70345b12e2419736bdb8e425d62
+      internalID: -3696380025181575903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_52
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b504cc4d5d1494184f64d56aaa6aeb
+      internalID: -397273587774753077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_61
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257b5aec25481ee45988a91cdb99b7ef
+      internalID: -4924247537881067795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8b1d1648a7c7346a88591a46a4219f
+      internalID: -1856483346517928346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_63
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a724d3f15ea5941b62cb9063f58193
+      internalID: 3831778852105253770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_64
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e174b767c7d2334cb08c11109ebd8fa
+      internalID: -2062635867351171503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_65
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c13508ad74ed6a4a9e258c75fe3a5ad
+      internalID: -5489649513794082276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_66
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4b6c8bb103661428377b21fdaf32fc
+      internalID: 3643284813487220524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_67
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f13940bdb305ee43b8d1ae51aa1c949
+      internalID: 6181377373127321598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_68
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12b11b651c03c442bd80f38be66f662
+      internalID: -5162496503406505372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_71
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d269aa192be58fb40b01ab783d1f7174
+      internalID: -1335231208213848633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c24ca8c537a0dc4e9a314126171ab02
+      internalID: 6644487578318243547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_75
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbbe07f4fcf0204ab91b1652407155e
+      internalID: 7596245761436991747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_76
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35c7f9fcc1b6d3479d810f6a8419f92
+      internalID: -2791707449967385952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_77
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaef6ae0d9e9f1e419dc1c2491e16c6b
+      internalID: -2500929043452219816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_78
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1f4d577943c2a4199e12119e11357e
+      internalID: 3745220057385173454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345e8bfad109901438048fc299bfab1e
+      internalID: -5341224906736805619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_81
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e67eb6c09309b479b59c8b1e4f3e37
+      internalID: 2614980576775189114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_83
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37abb1a3e4e2e144f8f1f7428064a42b
+      internalID: 8141340279264414546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_84
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910fd294935d2b447abe702f28211b04
+      internalID: 8334589618889100731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_86
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57d2653e73b64948a46d0a794819773
+      internalID: 7880983080669099916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_87
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec69011c3c1ddd640928d5998f70e4ac
+      internalID: 4431621934634691912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_88
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a95341065645e4da722e6ba743f5b5
+      internalID: -3034148639661681347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_89
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5df3c7f7c8a4f4387615932b2011f8
+      internalID: 3512390531952915102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_90
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc070edef84536418171f2a1cc73bd7
+      internalID: 7091843417437911072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0100e327b5bce4fa1fc19abd81157d
+      internalID: 729463268112522356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_92
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8904b50db02e34fac9538c17aea12e
+      internalID: -1758595390812843770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_94
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab7a7d1132f4c843b28328f4cad0f58
+      internalID: -489981875926543760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_95
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e1671341e979941b3b240af398ebf3
+      internalID: -3858429100261665350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_96
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e91c75c0a4115745bf9f207deef87f5
+      internalID: 6210218036048522715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_97
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebff8b725769d394f966eb0c31c3b1b2
+      internalID: 5035036339200388931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_99
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593f84b6b28e5dc49a95ed1115cb1b25
+      internalID: 8178806432422678886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_100
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cca1ad1f6781e54083bd57dd2f25351
+      internalID: -6120498253183099493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b04342724871e14496d2195b64e0736
+      internalID: 4118298899271051133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_102
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faebb853ebe621f47a05c21d7cd5d8f3
+      internalID: -6364999137828955420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_103
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d338af856a3a44b8142a0ec14c9bbf
+      internalID: -8472625805880045744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_104
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c0b050a94d5b7438755a2571e5b086
+      internalID: -22848966962924381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_105
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1721eb499224e4abe8c8858ea99855
+      internalID: -6233261392647051191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_106
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bf14b1fb9aec340a6d5a9bce634930
+      internalID: -8562987434947323186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_107
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae6a44a5e2aa494e963aca17982a5cd
+      internalID: 4074851252222368331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_108
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa24809d86ecc54cb939e6698019348
+      internalID: -2725926387809939298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_109
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea39402c9c4cef44a4752c406d7f29a
+      internalID: 5165017152063701257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_110
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6668892242a2343bcd31bc009be247
+      internalID: -2150367984381919392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_111
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a252f5a26bbe6784384d150cb9e1b550
+      internalID: -9203216341855337428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_112
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3851e8addd4a1c84ead10ac07f9d49a6
+      internalID: -894606543051742904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_113
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bbf92fda05b5147aff33cdbe35c1ff
+      internalID: 67244827658212329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_114
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7bb2cdebf5b0d4a99d6e62cd4d0e01
+      internalID: -7129242049876101033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_115
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac85ca5de5fb6924a8204a5297498ad8
+      internalID: 928521687229542673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_116
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 13
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27c517df94e7ac46bff7fa584840659
+      internalID: -5456934363398346387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_117
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996f2f355135e0f45ab1e1eab81ae760
+      internalID: -6696907412919707119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_118
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b969b6c65c7d1844686bcbc8740f865b
+      internalID: 8413244210873816466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_119
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6788f4cdc970949b0828d4d37b30df
+      internalID: -5631918077447890153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_120
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d266f0c24e7fb542973f34b522e0daf
+      internalID: -3493120675381059925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_121
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd38d58899522884a8ab747c2e7de882
+      internalID: -1798551770096522284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_122
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adc9e2e8c143cb489399dfeb8c66e92
+      internalID: -2501312061401439199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_123
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185161cf902e1b547aefd486bf054fd2
+      internalID: 529897134872196070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_124
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76c4817fd28668418e61562d73b6320
+      internalID: -3611828360922323296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_125
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29524edc2cb23d442865e901eed5ca13
+      internalID: -8987583282315452548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_126
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7978d965027fd4ea2ddc4ed33c2442
+      internalID: -3697204509391309790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUZO_KLOCKOW_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65eac85677b9f5b40b4c94f503e004e7
+      internalID: 7524938231363500226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 665eae6dca2e3d147a2854ae2763c45b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
